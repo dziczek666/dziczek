@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natalia 
-- 👀 I’m interested in Bioinformatics
+- 👀 Interested in Bioinformatics
 - 🌱 I’m currently learning R, Python
 - 📫 How to reach me natid3620@gmail.com
 
